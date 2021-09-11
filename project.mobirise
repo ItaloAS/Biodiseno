@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1233,7 +1233,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Caso Clínico",
+        "title": "Caso Clinico",
         "order": 1
       },
       "components": [
