@@ -1576,6 +1576,16 @@ a {
 .cid-sJ81ms4QOT .mbr-section-btn {
   text-align: left;
 }
+.cid-sJpzgp3r8v {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sJpzgp3r8v blockquote {
+  border-color: #6592e6;
+  border-radius: 4px;
+  background-color: #fafafa;
+}
 .cid-sIItUMz6Es {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -2709,9 +2719,9 @@ a {
   }
 }
 .cid-sJpp7UzBz0 {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #ffffff;
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  background-image: url("../../../assets/images/mbr-1920x1024.jpg");
 }
 .cid-sJpp7UzBz0 .card-box {
   z-index: 10;
