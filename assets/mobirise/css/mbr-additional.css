@@ -1586,6 +1586,29 @@ a {
   border-radius: 4px;
   background-color: #fafafa;
 }
+.cid-sK9KSteksa {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sK9KSteksa ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-sK9KSteksa li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-sK9KSteksa ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-sK9k6a3LeL {
   padding-top: 5rem;
   padding-bottom: 0rem;
