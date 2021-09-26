@@ -1586,6 +1586,24 @@ a {
   border-radius: 4px;
   background-color: #fafafa;
 }
+.cid-sKa2qxDtxx {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sKa2qxDtxx .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sKa2qxDtxx img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sKa2qxDtxx .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sK9KSteksa {
   padding-top: 5rem;
   padding-bottom: 5rem;

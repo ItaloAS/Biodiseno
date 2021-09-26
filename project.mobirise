@@ -50,7 +50,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png"
   },
@@ -1206,9 +1206,51 @@
           },
           "_name": "content7",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content7\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <input type=\"color\" name=\"lineColor\" title=\"Line Color\" value=\"#6592e6\">\n        <input type=\"color\" name=\"cardColor\" title=\"Color\" value=\"#fafafa\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-{{textWidth}}\">\n                <blockquote>\n                <h5 class=\"mbr-section-title mbr-fonts-style mb-2\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>COMPLICACIONES</b></h5>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">Un accidente cerebrovascular a veces puede causar discapacidades temporales o permanentes, según cuánto tiempo el cerebro carece de flujo sanguíneo y qué parte fue afectada. Las complicaciones pueden ser las siguientes:<br>\n<br>⚫ Parálisis o pérdida del movimiento muscular. Puedes quedar paralizado de un lado del cuerpo o perder el control de ciertos músculos, como los de un lado de la cara o de un brazo.<br>\n<br>⚫ Dificultad para hablar o tragar. Un accidente cerebrovascular puede afectar el control de los músculos de la boca y la garganta, dificultando que puedas hablar con claridad, tragar o comer. También puedes tener dificultad con el lenguaje, incluido hablar o entender el habla, leer o escribir.\n<br>Pérdida de memoria o dificultades para pensar. Muchas personas que han tenido accidentes cerebrovasculares experimentan algo de pérdida de memoria. Otras pueden tener dificultades para pensar, razonar, opinar y comprender conceptos.<br>\n<br>⚫ Problemas emocionales. Las personas que han tenido accidentes cerebrovasculares pueden tener más dificultad para controlar sus emociones o pueden sufrir depresión.<br>\n<br>⚫ Dolor. Se puede presentar dolor, entumecimiento u otras sensaciones inusuales en las partes del cuerpo afectadas por el accidente cerebrovascular. Por ejemplo, si un accidente cerebrovascular hace que pierdas la sensibilidad en el brazo izquierdo, puedes desarrollar una sensación de hormigueo incómoda en ese brazo.<br>\n<br>⚫ Cambios en la conducta y en la capacidad de cuidado personal. Las personas que han tenido accidentes cerebrovasculares pueden volverse más retraídas. Es posible que necesiten ayuda con el aseo personal y las tareas diarias.&nbsp;<br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content7\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <input type=\"color\" name=\"lineColor\" title=\"Line Color\" value=\"#6592e6\">\n        <input type=\"color\" name=\"cardColor\" title=\"Color\" value=\"#fafafa\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-{{textWidth}}\">\n                <blockquote>\n                <h5 class=\"mbr-section-title mbr-fonts-style mb-2\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>COMPLICACIONES</b></h5>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">Un accidente cerebrovascular a veces puede causar discapacidades temporales o permanentes, según cuánto tiempo el cerebro carece de flujo sanguíneo y qué parte fue afectada. Las complicaciones pueden ser las siguientes:<br>\n<br>⚫ <b>Parálisis o pérdida del movimiento muscular.</b> Puedes quedar paralizado de un lado del cuerpo o perder el control de ciertos músculos, como los de un lado de la cara o de un brazo.<br>\n<br>⚫ <b>Dificultad para hablar o tragar.</b> Un accidente cerebrovascular puede afectar el control de los músculos de la boca y la garganta, dificultando que puedas hablar con claridad, tragar o comer. También puedes tener dificultad con el lenguaje, incluido hablar o entender el habla, leer o escribir.\n<br>Pérdida de memoria o dificultades para pensar. Muchas personas que han tenido accidentes cerebrovasculares experimentan algo de pérdida de memoria. Otras pueden tener dificultades para pensar, razonar, opinar y comprender conceptos.<br>\n<br>⚫ <b>Problemas emocionales.</b> Las personas que han tenido accidentes cerebrovasculares pueden tener más dificultad para controlar sus emociones o pueden sufrir depresión.<br>\n<br>⚫ <b>Dolor.</b> Se puede presentar dolor, entumecimiento u otras sensaciones inusuales en las partes del cuerpo afectadas por el accidente cerebrovascular. Por ejemplo, si un accidente cerebrovascular hace que pierdas la sensibilidad en el brazo izquierdo, puedes desarrollar una sensación de hormigueo incómoda en ese brazo.<br>\n<br>⚫ <b>Cambios en la conducta y en la capacidad de cuidado personal.</b> Las personas que han tenido accidentes cerebrovasculares pueden volverse más retraídas. Es posible que necesiten ayuda con el aseo personal y las tareas diarias.&nbsp;<br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sJpzgp3r8v",
           "_anchor": "content7-p",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@fullWidth)": {
+              ".text-wrapper": {
+                "padding": "1rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            "img": {
+              "width": "100%"
+            },
+            "@media (min-width: 992px)": {
+              ".text-wrapper": {
+                "padding": "2rem"
+              }
+            }
+          },
+          "_name": "image1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Description\" name=\"showDescription\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/000667140w-1256x879.jpg\" alt=\"Mobirise\">\n                    <p class=\"mbr-description mbr-fonts-style pt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-description\"></p>\n                </div>\n            </div>\n            <div class=\"col-12\" mbr-class=\"{'col-lg' : !fullWidth, 'col-lg-4' : fullWidth &amp;&amp; textWidth >= 6, 'col-lg-6' : fullWidth &amp;&amp; textWidth <= 5}\">\n                <div class=\"text-wrapper\">\n                    <h3 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">\n                        <b>POBLACIÓN CON DISCAPACIDAD</b></h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                        En el censo del 2017, 3 millones 209 mil 261 personas declararon tener alguna discapacidad o limitación permanente que le impide desarrollarse normalmente en sus actividades diarias, esta cantidad representa el 10,3% de la población del país. De esta población se sabe que 1 millón 388 mil 304 personas representan el 11.5% del total de mujeres en el Perú y 1 millón 388 mil 957 representan el 9.0% del total de hombres. Según la locación de vivienda de la población, la distribución sería de 2 millones 715 mil 892 personas en el área urbana y 493 mil 369 personas en el área rural.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sKa2qxDtxx",
+          "_anchor": "image1-1w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
