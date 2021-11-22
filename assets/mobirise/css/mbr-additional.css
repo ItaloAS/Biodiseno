@@ -8879,3 +8879,24 @@ a {
     display: none !important;
   }
 }
+.cid-sPw5YxSMng {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sPw5T62qtd {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sPw5T62qtd .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sPw5T62qtd .row {
+  flex-direction: row-reverse;
+}
+.cid-sPw5T62qtd img {
+  width: 100%;
+}
