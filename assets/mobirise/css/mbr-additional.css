@@ -7859,3 +7859,26 @@ a {
 .cid-sPvbUfmR8Q img {
   width: 100%;
 }
+.cid-sPveyDwChw {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sPveyDwChw ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-sPveyDwChw li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-sPveyDwChw ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
